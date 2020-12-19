@@ -1,2 +1,2 @@
 # blackboard
-multiplayer blackboard using express, socket, and p5js
+multiplayer blackboard using express, socket.io, and p5js
